@@ -1,6 +1,6 @@
 // ซ่อน Pop-up หลังจาก 3 วินาทีและแสดงหน้าเว็บหลัก
 document.getElementById('popupIntro').addEventListener('click', function() {
-    window.location.href = "index.html";
+    window.location.href = "home.html";
 });
 
 
