@@ -290,19 +290,19 @@ strong {
 }
 
 .site-about-header {
-  background-image: url('../images/pic4.jpg');
+  background-image: url('../pic4.jpg');
 }
 
 .site-menu-header {
-  background-image: url('../images/pic3.jpg');
+  background-image: url('../pic3.jpg');
 }
 
 .site-news-header {
-  background-image: url('../images/pic7.jpg');
+  background-image: url('../pic7.jpg');
 }
 
 .site-contact-header {
-  background-image: url('../images/pic9.jpg');
+  background-image: url('../pic9.jpg');
 }
 
 .overlay {
@@ -769,7 +769,7 @@ textarea.form-control {
   FOOTER              
 -----------------------------------------*/
 .site-footer {
-  background-image: url('../images/pic5.jpg');
+  background-image: url('../pic5.jpg');
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -916,7 +916,7 @@ textarea.form-control {
   }
 
   #BookingModal .modal-content::before {
-    background-image: url('../images/pic5.jpg');
+    background-image: url('../pic5.jpg');
     background-position: bottom;
     top: auto;
     left: 0;
